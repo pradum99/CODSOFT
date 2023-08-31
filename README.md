@@ -1,1 +1,1 @@
-https://pradum99.github.io/CODSOFT/tree/main/Portfolio
+https://pradum99.github.io/CODSOFT/Portfolio
