@@ -1,2 +1,1 @@
-# CODSOFT
-There are all Internship Project of CODSOFT
+https://pradum99.github.io/CODSOFT/
